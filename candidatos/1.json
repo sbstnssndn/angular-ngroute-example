@@ -1,0 +1,12 @@
+	{
+		"id": 1,
+		"nombre": "I de Tarapacá",
+		"aprobacion": 20,
+		"desaprobacion": 80,
+		"imagenes": [
+			"img/1.jpg",
+			"img/2.jpg",
+			"img/3.jpg",
+			"img/4.jpg"
+		]
+	}

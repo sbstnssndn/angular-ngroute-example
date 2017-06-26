@@ -1,0 +1,73 @@
+[
+		{
+			"id": 1,
+			"nombre": "I de Tarapacá",
+			"aprobacion": "20",
+			"desaprobacion": "80",
+			"img": "img/1.jpg"
+		},
+		{
+			"id": 2,
+			"nombre": "II de Antofagasta",
+			"aprobacion": "50",
+			"desaprobacion": "50",
+			"img": "img/2.jpg"
+		},
+		{
+			"id": 3,
+			"nombre": "III de ASDF",
+			"aprobacion": "50",
+			"desaprobacion": "40",
+			"img": "img/3.jpg"
+		},
+		{
+			"id": 4,
+			"nombre": "IV de Ya Me Cansé",
+			"aprobacion": "60",
+			"desaprobacion": "40",
+			"img": "img/4.jpg"
+		},
+		{
+			"id": 5,
+			"nombre": "II de Antofagasta",
+			"aprobacion": "10",
+			"desaprobacion": "90",
+			"img": "img/5.jpg"
+		},
+		{
+			"id": 6,
+			"nombre": "II de Antofagasta",
+			"aprobacion": "50",
+			"desaprobacion": "50",
+			"img": "img/3.jpg"
+		},
+		{
+			"id": 7,
+			"nombre": "II de Antofagasta",
+			"aprobacion": "50",
+			"desaprobacion": "50",
+			"img": "img/1.jpg"
+		},
+		{
+			"id": 8,
+			"nombre": "II de Antofagasta",
+			"aprobacion": "95",
+			"desaprobacion": "5",
+			"img": "img/2.jpg"
+		},
+		{
+			"id": 9,
+			"nombre": "II de Antofagasta",
+			"aprobacion": "80",
+			"desaprobacion": "20",
+			"img": "img/5.jpg"
+		},
+		{
+			"id": 10,
+			"nombre": "II de Antofagasta",
+			"aprobacion": "50",
+			"desaprobacion": "50",
+			"img": "img/4.jpg"
+		}
+
+]

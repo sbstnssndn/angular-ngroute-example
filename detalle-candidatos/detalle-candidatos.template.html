@@ -1,0 +1,12 @@
+<img ng-src="{{$ctrl.mainImageUrl}}" />
+
+<h1>({{$ctrl.candidato.id}}) {{$ctrl.candidato.nombre}}</h1>
+
+<p>Aprobación: {{$ctrl.candidato.aprobacion}}%</p>
+<p>Desaprobación: {{$ctrl.candidato.desaprobacion}}%</p>
+
+<ul class="phone-thumbs">
+  <li ng-repeat="img in $ctrl.candidato.imagenes">
+    <img ng-src="{{img}}" ng-click="$ctrl.setImage(img)" />
+  </li>
+</ul>
